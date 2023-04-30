@@ -12,6 +12,10 @@ N/A
 
 To use this Challenge Mock Up Page, you can right click anywhere on the page https://firene11.github.io/Week-01-Challenge/ and choose "Inspect" to see if the code includes Sematic Elements and promotes accessibility standards. 
 
+## Screenshot
+
+Develop/assets/images/Week01-Screenshot.jpg
+
 ## Credits
 
 N/A
