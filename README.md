@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Challenge Mock Up Page, you can right click anywhere on the page and choose "Inspect" to see if the code includes Sematic Elements and promotes accessibility standards. 
+To use this Challenge Mock Up Page, you can right click anywhere on the page https://firene11.github.io/Week-01-Challenge/ and choose "Inspect" to see if the code includes Sematic Elements and promotes accessibility standards. 
 
 ## Credits
 
