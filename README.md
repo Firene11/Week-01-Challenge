@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge was created for boot camp students to learn how to refactor HTML and CSS to semtantic elements to create accessibility - when given a user story, scenerio-oriented acceptance criteria, a mock up and existing code.
+This challenge was created for boot camp students to learn how to refactor HTML and CSS to semantic elements to create accessibility - when given a user story, scenerio-oriented acceptance criteria, a mock up and existing code.
 
 ## Installation
 
