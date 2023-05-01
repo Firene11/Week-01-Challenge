@@ -14,7 +14,7 @@ To use this Challenge Mock Up Page, you can right click anywhere on the page htt
 
 ## Screenshot
 
-Develop/assets/images/Week01-Screenshot.jpg
+![image](https://user-images.githubusercontent.com/124883284/235382249-b16fbb32-fe01-463b-8224-42cd65325ff1.png)
 
 ## Credits
 
